@@ -1,5 +1,5 @@
 # build-tool-comparison
-Maven, Gradle과 관련된 학습 공간입니다.
+Maven과 Gradle 특징을 기록합니다.
 
 ## 요약
 
