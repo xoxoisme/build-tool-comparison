@@ -1,6 +1,8 @@
 # build-tool-comparison
 Maven과 Gradle 특징을 기록합니다.
 
+---
+
 ## 요약
 
 |      항목       |      Maven      |       Gradle        |
